@@ -27,7 +27,7 @@ pbp_clean <- pbp_2023 %>%
   )
 
 # -------------------------------
-# Step 2: Drive-Level Aggregation (Corrected)
+# Step 2: Drive-Level Aggregation
 # -------------------------------
 drive_data <- pbp_clean %>%
   group_by(game_id, drive) %>%
@@ -64,7 +64,7 @@ drive_data <- drive_data %>%
   )
 
 # -------------------------------
-# Step 3: Pressure Index Calculations (Revised)
+# Step 3: Pressure Index Calculations
 # -------------------------------
 drive_data <- drive_data %>%
   mutate(
@@ -83,7 +83,7 @@ drive_data <- drive_data %>%
   )
 
 # -------------------------------
-# Step 4: Optimal Weight for PIO3 (Improved)
+# Step 4: Optimal Weight for PIO3
 # -------------------------------
 # First, merge drive success indicator into drive_data.
 # A drive is considered successful if any play in that drive resulted in a touchdown.
