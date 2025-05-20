@@ -24,7 +24,7 @@ install.packages(c(
 
 ## 🚀 Getting Started
 
-git clone https://github.com/agnivibes/nfl-pressure-index.git \\
+git clone https://github.com/agnivibes/nfl-pressure-index.git
 cd nfl-pressure-index
 
 # Run the full analysis:
