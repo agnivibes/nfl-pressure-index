@@ -6,7 +6,7 @@ library(ggplot2)
 library(pROC)
 library(caret)
 library(gbm)
-library(scales)  # For normalization
+library(scales)  
 
 # -------------------------------
 # Step 1: Data Acquisition (Using 2023 Data)
