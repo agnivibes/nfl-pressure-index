@@ -35,7 +35,7 @@ source("Pressure_Index_NFL.R")
 ## 🔬 Research Paper
 
 Aich, A., Bhattacharjee, D., & Saikia, H. (2025). Under Pressure: Integrating Machine Learning to Quantify Clutch Moments in
-American Football. International Journal of Sports Science and Coaching. [Manuscript Under Review}
+American Football. International Journal of Sports Science and Coaching. [Manuscript Under Review]
 
 ## 📊 Citation
 If you use this code or method in your own work, please cite:
