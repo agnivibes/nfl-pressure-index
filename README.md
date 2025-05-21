@@ -51,7 +51,7 @@ If you use this code or method in your own work, please cite:
 ## 📬 Contact
 For questions or collaborations, feel free to contact:
 
-Agnideep Aich
+Agnideep Aich,
 Department of Mathematics, University of Louisiana at Lafayette
 📧 agnideep.aich1@louisiana.edu
 
